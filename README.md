@@ -1,7 +1,4 @@
 # Hi there, I'm Fitri Sagita! 👋
-<div class="tenor-gif-embed" data-postid="21187298" data-share-method="host" data-aspect-ratio="1.6" data-width="100%"><a href="https://tenor.com/view/goodbye-bye-see-you-later-reincarnated-as-a-slime-rimuru-tempest-gif-21187298">Goodbye See You Later GIF</a>from <a href="https://tenor.com/search/goodbye-gifs">Goodbye GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-## About Me
 - 🔭 I’m currently working as **ASP.Net Developer**
 - 🌱 I’m learning **Data Analysis and Machine Learning**
 - 👯 I’m looking to collaborate on **Data Analysis projects**
