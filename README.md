@@ -1,5 +1,5 @@
 # Hi there, I'm Fitri Sagita! 👋
-![Banner GIF](https://tenor.com/bA3WM.gif).
+https://tenor.com/bA3WM.gif
 
 ## About Me
 - 🔭 I’m currently working as **ASP.Net Developer**
