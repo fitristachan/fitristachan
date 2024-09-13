@@ -1,5 +1,5 @@
 # Hi there, I'm Fitri Sagita! 👋
-https://tenor.com/bA3WM.gif
+<img src="https://tenor.com/bA3WM.gif" alt="Rimuru Slime" />
 
 ## About Me
 - 🔭 I’m currently working as **ASP.Net Developer**
