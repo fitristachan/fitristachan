@@ -1,5 +1,4 @@
 # Hi there, I'm Fitri Sagita! 👋
-
 ![Banner GIF](https://tenor.com/bA3WM.gif).
 
 ## About Me
