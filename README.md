@@ -1,4 +1,4 @@
-# Hi there, I'm Fitri Sagita! 👋
+# Hi there, I'm Gita! 👋
 - 🔭 I’m currently working as **ASP.Net Developer**
 - 🌱 I’m learning **Data Analysis and Machine Learning**
 - 👯 I’m looking to collaborate on **Data Analysis projects**
@@ -55,15 +55,5 @@ I’m highly interested in **Data Analysis** and love exploring trends, insights
   <!-- LinkedIn -->
   <a href="https://id.linkedin.com/in/fitri-sagita-4a530a210" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-  <!-- GitHub -->
-  <a href="https://github.com/fitristachan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/fitristachan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
