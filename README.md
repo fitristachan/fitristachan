@@ -43,7 +43,7 @@ I’m highly interested in **Data Analysis** and love exploring trends, insights
 - [**Project 1: Diet Lectine App with Image Processing**](https://github.com/fitristachan/dietin)  
   *A diet lectin app built using Kotlin, Jetpack Compose and TensorFlow Lite.*
 
-- [**Project 2: Aksara Legana App**](https://github.com/fitristachan/sarwa)  
+- [**Project 2: Aksara Legana App**](https://github.com/fitristachan/Aksara)  
   *Aksara legana recognition app using API, Kotlin, Jetpack Compose and TensorFlow Lite.*
 
 ### API Development Projects
