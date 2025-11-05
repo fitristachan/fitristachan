@@ -1,6 +1,5 @@
 # Hi there, I'm Gita! 👋
-- 🌱 I’m learning **Data Analysis and Machine Learning**
-- 👯 I’m looking to collaborate on **Data Analysis projects**
+- 🌱 I’m learning **Data Engineering and Machine Learning**
 
 ## Languages and Tools I Master
 <p align="left">
@@ -38,9 +37,9 @@ I’m highly interested in **Data Analysis** and love exploring trends, insights
   - [**Project 1: Invoice and Receipt Image Processing for Information Extraction**](https://github.com/fitristachan/invoice-image-processing)  
   *The main objective of this research is to build and evaluate models capable of detecting specific regions on receipts and invoices, such as item name, quantity (qty), and price, for subsequent information extraction. The project compares several methods, ranging from Deep Learning models to the use of existing OCR libraries.*
 
-### Data Analyst Projects
+### Data Engineering Projects
   - [**Project 1: Banking Credit Analysis**](https://github.com/fitristachan/Banking-Credit-Analysis)  
-  *Scraping OJK Website To Get PDF File*
+  *Scraping OJK website to get PDF file*
   - [**Project 2: Air Quality Analysis**](https://github.com/fitristachan/Air-Quality-Data-Analytic)  
   *Analyze air quality data with total 420768 data in dataset for Dicoding Submission*
   - [**Project 3: Employee Data Analysis and Visualization**](https://github.com/fitristachan/Analisis-Data-Pegawai)  
