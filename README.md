@@ -38,8 +38,8 @@ I’m highly interested in **Data Analysis** and love exploring trends, insights
   *The main objective of this research is to build and evaluate models capable of detecting specific regions on receipts and invoices, such as item name, quantity (qty), and price, for subsequent information extraction. The project compares several methods, ranging from Deep Learning models to the use of existing OCR libraries.*
 
 ### Data Engineering Projects
-  - [**Project 1: Banking Credit Analysis**](https://github.com/fitristachan/Banking-Credit-Analysis)  
-  *Scraping OJK website to get PDF file*
+  - [**Project 1: AI Powered Talent Match Analysis**](https://github.com/fitristachan/talent-match-analysis)  
+  *Doing EDA and analyze talent data to detect success formula using pandas and linear regression and create interactive dashboard using streamlit that connected to Llama AI LLM to create job description based on SQL CTE analysis result*
   - [**Project 2: Air Quality Analysis**](https://github.com/fitristachan/Air-Quality-Data-Analytic)  
   *Analyze air quality data with total 420768 data in dataset for Dicoding Submission*
   - [**Project 3: Employee Data Analysis and Visualization**](https://github.com/fitristachan/Analisis-Data-Pegawai)  
@@ -51,11 +51,3 @@ I’m highly interested in **Data Analysis** and love exploring trends, insights
 
 - [**Project 2: Aksara Legana App**](https://github.com/fitristachan/Aksara)  
   *Aksara legana recognition app using API, Kotlin, Jetpack Compose and TensorFlow Lite.*
-
-## How to Reach Me
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://id.linkedin.com/in/fitri-sagita-4a530a210" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
