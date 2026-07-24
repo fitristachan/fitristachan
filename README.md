@@ -1,5 +1,5 @@
 # Hi there, I'm Gita! 👋
-- 🌱 I’m learning **Data Engineering and Machine Learning**
+- 🌱 I’m learning **Full Stack Dev, Mobile Dev, Data Engineering and Machine Learning**
 
 ## Languages and Tools I Master
 <p align="left">
@@ -29,7 +29,7 @@
 </p>
 
 ## My Interests
-I’m highly interested in **Data Analysis** and love exploring trends, insights, and patterns within datasets. I'm passionate about using data to solve real-world problems.
+I’m highly interested in **Machine learning** and love exploring trends, insights, and patterns within datasets. I'm passionate about using data to solve real-world problems.
 
 ## Projects
 
